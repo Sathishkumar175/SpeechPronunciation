@@ -15,11 +15,7 @@ This is a simple English pronunciation test game designed to help students pract
 - Google Speech Recognition API enabled.
 
 ## Setup:
-<<<<<<< HEAD
-1. Clone this repository
-=======
 1. Clone this repository.
->>>>>>> e33637efbeae77bf2c6dc3a21296e702dfda72fd
 2. Open the project in Android Studio or VS Code.
 3. Sync the Gradle dependencies.
 4. Run the app on an emulator or physical device.
