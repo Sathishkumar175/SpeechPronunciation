@@ -25,5 +25,3 @@ This is a simple English pronunciation test game designed to help students pract
 - Tap the "Speak Now" button and pronounce the word/phrase.
 - Your pronunciation will be scored, and feedback will be provided.
 
-## License:
-This project is open source. Feel free to contribute!
